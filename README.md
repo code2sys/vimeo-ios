@@ -1,4 +1,4 @@
-![Retail Mapper] [screenshot1]
+![Retail Mapper] [icon]
 
 #RetailMapper-iOS
 
@@ -8,19 +8,19 @@ It’s fun and easy to use.
 
 * Simply choose a retail location. 
 
-![Choose a retail location] [https://github.com/SkuRun/RetailMapper-iOS/wiki/images/screenshot1.jpg]
+![Choose a retail location] [screenshot1]
 
 * Snap a photo, or select an image from your camera library. 
 
-![Select an image from camera library] [https://github.com/SkuRun/RetailMapper-iOS/wiki/images/screenshot2.jpg]
+![Select an image from camera library] [screenshot2]
 
 * Drag and drop point of sale assets onto the image. Move, resize, reshape, and annotate over your newly created image.
 
-![Apply photo filter] [https://github.com/SkuRun/RetailMapper-iOS/wiki/images/screenshot3.jpg]
+![Apply photo filter] [screenshot3]
 
 * Save and publish to the cloud and wallah, you’re done. 
 
-![Save and publish] [[https://github.com/SkuRun/RetailMapper-iOS/wiki/images/screenshot4.jpg]
+![Save and publish] [screenshot4]
 
 
 In less than two minutes you are now able to completely visualize a retail makeover, all from your device.
@@ -52,4 +52,8 @@ Retail Mapper is ideal for on the road field marketing and merchandising teams. 
 Retail Mapper is copyright 2013-2014 SkuRun, Inc.
 
 
-[screenshot1]: http://a4.mzstatic.com/us/r30/Purple/v4/e2/e2/84/e2e284d0-d124-ab64-7b68-604c7f21f880/screen480x480.jpeg
+[icon]: https://github.com/SkuRun/RetailMapper-iOS/wiki/images/icon.png
+[screenshot1]: https://github.com/SkuRun/RetailMapper-iOS/wiki/images/screenshot1.jpg
+[screenshot2]: https://github.com/SkuRun/RetailMapper-iOS/wiki/images/screenshot2.jpg
+[screenshot3]: https://github.com/SkuRun/RetailMapper-iOS/wiki/images/screenshot3.jpg
+[screenshot4]: https://github.com/SkuRun/RetailMapper-iOS/wiki/images/screenshot4.jpg
