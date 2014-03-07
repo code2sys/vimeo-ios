@@ -1,4 +1,4 @@
-![Retail Mapper] [http://a4.mzstatic.com/us/r30/Purple/v4/e2/e2/84/e2e284d0-d124-ab64-7b68-604c7f21f880/screen480x480.jpeg]
+![Retail Mapper] [screenshot1]
 
 #RetailMapper-iOS
 
@@ -52,3 +52,4 @@ Retail Mapper is ideal for on the road field marketing and merchandising teams. 
 Retail Mapper is copyright 2013-2014 SkuRun, Inc.
 
 
+[screenshot1]: http://a4.mzstatic.com/us/r30/Purple/v4/e2/e2/84/e2e284d0-d124-ab64-7b68-604c7f21f880/screen480x480.jpeg
